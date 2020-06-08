@@ -1,3 +1,5 @@
+<img src="filmis-logo-app.png" alt="hi" class="inline"/>
+
 ## Welcome to Filmis
 
 I am a cute little app availabe at: [appstore where ever](https://github.com/lionesse/lionesse.github.io/edit/master/index.md).
