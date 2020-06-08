@@ -7,9 +7,11 @@ I am a cute little app availabe at: [appstore where ever](https://github.com/lio
 My best features are:
 
 - I'm cute
-- You will get to swipe among 10 000+ films
-- You can match with your friends, family, partner or date
-- Choosing a film to watch have never been faster or simpler - whether you are watching alone or together with someone!
+- Swipe among 10 000+ movies
+- Save movies in your watch list
+- Match watch lists with your friends, family, partner or date
+
+Choosing a film to watch have never been faster or simpler - whether you are watching alone or together with someone!
 
 ### Support or Contact
 
