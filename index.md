@@ -1,3 +1,5 @@
+<link rel="shortcut icon" href="https://www.filmis.app/filmis-logo-favicon.ico"/>
+
 <img src="filmis-logo-app.png" alt="Filmis the APP"/>
 
 ## Welcome to Filmis
