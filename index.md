@@ -1,4 +1,4 @@
-<img src="filmis-logo-app.png" alt="hi" class="inline"/>
+<img src="filmis-logo-app.png"/>
 
 ## Welcome to Filmis
 
