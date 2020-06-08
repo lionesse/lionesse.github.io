@@ -24,5 +24,4 @@ We are two movie loving film enthusiasts who wanted to make our and your movie p
 
 Is it not absolutely dreadful when the mood for watching a movie strikes, but you have n o t h i n g to watch? You almost LOSE your mood to watch a movie whilst you have to go back and forth among numerous apps, movie lists and IMDB scores in order to finally find something you like - and if you are planning to watch with someone else the struggle grows exponentially. Here to save you from all of your movie sorrows - FILMIS THE APP! :)
 
-<img src="anna-leijon-filmis-app.jpg" alt="Anna Leijon Filmis the APP" width="100"/>
-<img src="joakim-lustig-filmis-app.png" alt="Joakim Lustig Filmis the APP" width="100"/>
+<img src="anna-leijon-filmis-app.jpg" alt="Anna Leijon Filmis the APP" width="200"/> <img src="joakim-lustig-filmis-app.png" alt="Joakim Lustig Filmis the APP" width="200"/>
