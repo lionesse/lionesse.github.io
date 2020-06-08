@@ -7,7 +7,7 @@ My best features are:
 - I'm cute
 - You will get to swipe among 10 000+ films
 - You can match with your friends, family, partner or date
-- Choosing a film to watch have never been simpler!
+- Choosing a film to watch have never been faster or simpler - whether you are watching alone or together with someone!
 
 ### Support or Contact
 
