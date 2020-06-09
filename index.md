@@ -4,9 +4,7 @@
 
 I am a cute little app availabe at: [appstore where ever](https://github.com/lionesse/lionesse.github.io/edit/master/index.md).
 
-My best features are:
-
-<img src="assets/images/swipe-filmis-the-app.png" alt="Swipe Filmis the APP" width="100"/>
+<center><img src="assets/images/swipe-filmis-the-app.png" alt="Swipe Filmis the APP" width="100"/></center>
 
 Swipe among 10 000+ movies
 
