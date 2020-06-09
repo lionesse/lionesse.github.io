@@ -99,7 +99,7 @@ body{
 	float: right;
 	width: 47.3%;
 	text-align: left;
-	background: url(../images/img-sprit.png) no-repeat;
+	background: url(..assets/images/img-sprit.png) no-repeat;
 	height: 598px;
 	margin-bottom: 1.5em;
 }
@@ -118,13 +118,13 @@ body{
 	width: 180px;
 	height: 53px;
 	display: block;
-	background: url(../images/img-sprit.png) no-repeat #F2F4F5 -172px -879px;
+	background: url(..assets/images/img-sprit.png) no-repeat #F2F4F5 -172px -879px;
 }
 .info-btns ul li:nth-child(2) a{
 	width: 180px;
 	height: 53px;
 	display: block;
-	background: url(../images/img-sprit.png) no-repeat #F2F4F5 -172px -826px;
+	background: url(..assets/images/img-sprit.png) no-repeat #F2F4F5 -172px -826px;
 }
 .info-btns{
 	margin-top: 1.3em;
