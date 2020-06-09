@@ -28,6 +28,9 @@ I am a cute little app availabe at: [appstore where ever](https://github.com/lio
 <br/>
 
 <p align="center">Choosing a film to watch have never been faster or simpler - whether you are watching alone or together with someone!</p>
+<br/>
+<br/>
+<br/>
 
 ## Support or Contact
 
