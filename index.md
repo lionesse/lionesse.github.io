@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-## Welcome to Filmis
+# Welcome to Filmis
 
 I am a cute little app availabe at: [appstore where ever](https://github.com/lionesse/lionesse.github.io/edit/master/index.md).
 
@@ -14,11 +14,11 @@ My best features are:
 
 Choosing a film to watch have never been faster or simpler - whether you are watching alone or together with someone!
 
-### Support or Contact
+## Support or Contact
 
 Having trouble with Filmis? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### About us
+## About us
 
 We are two movie loving film enthusiasts who wanted to make our and your movie picking less of a struggle, so here is the result - the app Filmis!
 
