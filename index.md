@@ -4,20 +4,20 @@
 
 I am a cute little app availabe at: [appstore where ever](https://github.com/lionesse/lionesse.github.io/edit/master/index.md).
 
-<p align="center"><img src="assets/images/swipe-filmis-the-app.png" alt="Swipe Filmis the APP" width="100"/>
+<p align="center"><img src="assets/images/swipe-filmis-the-app.png" alt="Swipe Filmis the APP" width="100"/></p>
 
-Swipe among 10 000+ movies
+<p align="center">Swipe among 10 000+ movies</p>
 
-<img src="assets/images/save-filmis-the-app.png" alt="Save Filmis the APP" width="100"/>
+<p align="center"><img src="assets/images/save-filmis-the-app.png" alt="Save Filmis the APP" width="100"/></p>
 
-Save movies in your watch list and get info about where the movie is available to rent, buy or stream
+<p align="center">Save movies in your watch list and get info about where the movie is available to rent, buy or stream</p>
 
-<img src="assets/images/link-filmis-the-app.png" alt="Link Filmis the APP" width="100"/>
+<p align="center"><img src="assets/images/link-filmis-the-app.png" alt="Link Filmis the APP" width="100"/></p>
 
-Match watch lists with your friends, family, partner or date
+<p align="center">Match watch lists with your friends, family, partner or date</p>
 
 
-Choosing a film to watch have never been faster or simpler - whether you are watching alone or together with someone!</p>
+<p align="center">Choosing a film to watch have never been faster or simpler - whether you are watching alone or together with someone!</p>
 
 ## Support or Contact
 
