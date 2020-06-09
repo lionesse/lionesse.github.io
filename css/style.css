@@ -24,10 +24,19 @@ nav.vertical ul li{	display:block;}/* vertical menu */
 nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
 img{max-width:100%;}
 /*end reset*/
+@font-face {
+font-family: "Chango-Regular";
+src: url("https://filmis.app/fonts/Chango-Regular.ttf");
+}
+@font-face {
+font-family: "Montserrat-Regular";
+src: url("https://filmis.app/fonts/Montserrat-Regular.ttf");
+}
 body{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat-Regular';
 	background:#FFF;
 }
+
 /*---start-wrap----*/
 .wrap{
 	width:70%;
