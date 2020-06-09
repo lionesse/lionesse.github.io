@@ -2,3 +2,18 @@
 ---
 
 @import "{{ site.theme }}";
+@font-face {
+font-family: "CustomFont";
+src: url("https://filmis.app/assets/fonts/Chango-Regular.ttf");
+src: url("https://filmis.app/assets/fonts/Montserrat-Regular.ttf");
+}
+h1 {
+font-family: 'CustomFont', Chango-Regular;
+font-weight:normal;
+font-style:normal;
+}
+h3 {
+font-family: 'CustomFont', Montserrat-Regular;
+font-weight:normal;
+font-style:normal;
+}
