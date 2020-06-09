@@ -4,7 +4,7 @@
 
 I am a cute little app availabe at: [appstore where ever](https://github.com/lionesse/lionesse.github.io/edit/master/index.md).
 
-<p align="center"><img src="assets/images/swipe-filmis-the-app.png" alt="Swipe Filmis the APP" width="100"/></p>
+<p align="center"><img src="assets/images/swipe-filmis-the-app.png" alt="Swipe Filmis the APP" width="100"/>
 
 Swipe among 10 000+ movies
 
@@ -17,7 +17,7 @@ Save movies in your watch list and get info about where the movie is available t
 Match watch lists with your friends, family, partner or date
 
 
-Choosing a film to watch have never been faster or simpler - whether you are watching alone or together with someone!
+Choosing a film to watch have never been faster or simpler - whether you are watching alone or together with someone!</p>
 
 ## Support or Contact
 
