@@ -31,7 +31,7 @@ src: url("https://yoursite.com/assets/fonts/Montserrat-Regular.ttf");
 }
 /*end reset*/
 body{
-	font-family: 'Montserrat-Regulat', sans-serif;
+	font-family: 'Montserrat-Regular';
 }
 /*---start-wrap-----*/
 .wrap{
