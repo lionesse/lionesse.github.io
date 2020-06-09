@@ -2,7 +2,7 @@
 
 # Welcome to Filmis
 
-I am a cute little app availabe at: [appstore where ever](https://github.com/lionesse/lionesse.github.io/edit/master/index.md).
+<p>I am a cute little app availabe at: [appstore where ever](https://github.com/lionesse/lionesse.github.io/edit/master/index.md).</p>
 
 My best features are:
 
