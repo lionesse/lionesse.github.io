@@ -231,7 +231,7 @@ body{
 /*---//End-panels----*/
 /*---start-testimonials----*/
 .circular--square {
-  border-radius: 50%;
+  border-radius: 30%;
 }
 .testimonial-head{
 	text-align:center;
