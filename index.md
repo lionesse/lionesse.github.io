@@ -9,15 +9,23 @@ I am a cute little app availabe at: [appstore where ever](https://github.com/lio
 <p align="center"><img src="assets/images/swipe-filmis-the-app.png" alt="Swipe Filmis the APP" width="100"/></p>
 
 <p align="center">Swipe among 10 000+ movies</p>
+<br/>
+<br/>
+<br/>
 
 <p align="center"><img src="assets/images/save-filmis-the-app.png" alt="Save Filmis the APP" width="100"/></p>
 
 <p align="center">Save movies in your watch list and get info about where the movie is available to rent, buy or stream</p>
+<br/>
+<br/>
+<br/>
 
 <p align="center"><img src="assets/images/link-filmis-the-app.png" alt="Link Filmis the APP" width="100"/></p>
 
 <p align="center">Match watch lists with your friends, family, partner or date</p>
-
+<br/>
+<br/>
+<br/>
 
 <p align="center">Choosing a film to watch have never been faster or simpler - whether you are watching alone or together with someone!</p>
 
