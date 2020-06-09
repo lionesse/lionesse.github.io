@@ -1119,8 +1119,8 @@ input[type=checkbox].css-checkbox6:checked + label.css-label6 {
 	}
 	.logo{
 		display:none;
-		padding-left: 2em;
-		padding-bottom: 0.5em;
+		padding-left: 3em;
+		padding-bottom: 1em;
 	}
 	.fea-list{
 		text-align:left;
