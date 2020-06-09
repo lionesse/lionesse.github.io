@@ -23,11 +23,11 @@ img{max-width:100%;}
 
 @font-face {
 font-family: "Chango-Regular";
-src: url("https://yoursite.com/assets/fonts/Chango-Regular.ttf");
+src: url("https://filmis.app/assets/fonts/Chango-Regular.ttf");
 }
 @font-face {
 font-family: "Montserrat-Regular";
-src: url("https://yoursite.com/assets/fonts/Montserrat-Regular.ttf");
+src: url("https://filmis.app/assets/fonts/Montserrat-Regular.ttf");
 }
 /*end reset*/
 body{
