@@ -3,11 +3,8 @@
 
 @import "{{ site.theme }}";
 @font-face {
-font-family: "Chango-Regular";
+font-family: "Chango-Regular", "Montserrat-Regular";
 src: url("https://filmis.app/assets/fonts/Chango-Regular.ttf");
-}
-@font-face {
-font-family: "Montserrat-Regular";
 src: url("https://filmis.app/assets/fonts/Montserrat-Regular.ttf");
 }
 p {
