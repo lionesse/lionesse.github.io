@@ -24,6 +24,7 @@ nav.vertical ul li{	display:block;}/* vertical menu */
 nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
 img{max-width:100%;}
 /*end reset*/
+
 @font-face {
 font-family: "Chango-Regular";
 src: url("https://filmis.app/fonts/Chango-Regular.ttf");
@@ -1118,6 +1119,7 @@ input[type=checkbox].css-checkbox6:checked + label.css-label6 {
 	}
 	.logo{
 		display:none;
+		padding-left: 1.5em;
 	}
 	.fea-list{
 		text-align:left;
