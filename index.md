@@ -2,15 +2,15 @@
 
 # Welcome to Filmis
 
-I am a cute little app availabe at: [appstore where ever](https://github.com/lionesse/lionesse.github.io/edit/master/index.md).
+### I am a cute little app availabe at: [appstore where ever](https://github.com/lionesse/lionesse.github.io/edit/master/index.md).
 
-My best features are:
+### My best features are:
 
-- I'm cute
-- Swipe among 10 000+ movies
-- Save movies in your watch list
-- Get info in the app about where the movie is available to rent, buy or stream
-- Match watch lists with your friends, family, partner or date
+### - I'm cute
+### - Swipe among 10 000+ movies
+### - Save movies in your watch list
+### - Get info in the app about where the movie is available to rent, buy or stream
+### - Match watch lists with your friends, family, partner or date
 
 Choosing a film to watch have never been faster or simpler - whether you are watching alone or together with someone!
 
