@@ -52,6 +52,7 @@ body{
 }
 .logo{
 	float: left;
+	background: url("https://filmis.app/assets/images/filmis-logo-app-2.png");
 }
 .logo a{
 	color:#000;
