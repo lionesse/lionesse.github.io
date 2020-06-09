@@ -6,9 +6,9 @@ I am a cute little app availabe at: [appstore where ever](https://github.com/lio
 
 My best features are:
 
-<img src="assets/images/swipe-filmis-the-app.png" alt="Swipe Filmis the APP" width="200"/>
-<img src="assets/images/save-filmis-the-app.png" alt="Save Filmis the APP" width="200"/>
-<img src="assets/images/link-filmis-the-app.png" alt="Link Filmis the APP" width="200"/>
+<img src="assets/images/swipe-filmis-the-app.png" alt="Swipe Filmis the APP" width="100"/>
+<img src="assets/images/save-filmis-the-app.png" alt="Save Filmis the APP" width="100"/>
+<img src="assets/images/link-filmis-the-app.png" alt="Link Filmis the APP" width="100"/>
 
 - I'm cute
 - Swipe among 10 000+ movies
