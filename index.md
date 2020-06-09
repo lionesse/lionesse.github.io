@@ -3,7 +3,9 @@
 # Welcome to Filmis
 
 I am a cute little app availabe at: [appstore where ever](https://github.com/lionesse/lionesse.github.io/edit/master/index.md).
-
+<br/>
+<br/>
+<br/>
 <p align="center"><img src="assets/images/swipe-filmis-the-app.png" alt="Swipe Filmis the APP" width="100"/></p>
 
 <p align="center">Swipe among 10 000+ movies</p>
