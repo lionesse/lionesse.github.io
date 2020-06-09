@@ -230,6 +230,9 @@ body{
 }
 /*---//End-panels----*/
 /*---start-testimonials----*/
+.circular--square {
+  border-radius: 50%;
+}
 .testimonial-head{
 	text-align:center;
 }
