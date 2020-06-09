@@ -10,6 +10,9 @@ src: url("https://filmis.app/assets/fonts/Chango-Regular.ttf");
 font-family: "Montserrat-Regular";
 src: url("https://filmis.app/assets/fonts/Montserrat-Regular.ttf");
 }
+body {
+    font: 'Montserrat-Regular', Montserrat-Regular;
+} !important
 p {
 font-family: 'Montserrat-Regular', Montserrat-Regular;
 font-weight:normal;
@@ -28,6 +31,4 @@ font-style:normal;
 ul li a {
 font-family: 'Montserrat-Regular', Montserrat-Regular;
 } !important
-body {
-    font: 'Montserrat-Regular', Montserrat-Regular;
-} !important
+
